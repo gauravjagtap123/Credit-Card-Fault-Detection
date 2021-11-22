@@ -6,9 +6,12 @@ Now taking out the data which is the first step of a Data Science project also c
 After understanding the data we must load all the required libraries from performing this project. Now comes the interesting part of data investigation, which starts which Data Analysis of Data which include finding the missing and duplicate values and removing it, and understanding various features of the dataset and the relationships between them.  After Data Analysis we handle the unbalanced dataset using under-sampling technique to uniformly distribute the data. Thereafter our data is cleaned and ready for model development.  Before model development we must split our data into training and testing data so we can feed our training data to different Machine learning models and train the models and after that we will evaluate our models with the testing data.  
 So how comes the model development for which we have done all this hardwork. We will develope different machine model and find there accuracy score F1 score to evaluate which model has the highest precision.  During our model development we train and build the following model: 
 
-Logistic Regression.
-Decision Tree. 
-K-Nearest Neighbors 
-Random Forest 
+1.Logistic Regression.
+
+2.Decision Tree. 
+
+3.K-Nearest Neighbors 
+
+4.Random Forest 
 
 But Logistic Regression got the highest accuracy score of 94.93% and F1 score of 94.82%.   We got 94.93% accuracy through Logistic Regression in our Credit Card Fraud Detection Project.  Hope you like it.....!!!
